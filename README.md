@@ -36,7 +36,7 @@ This project helped me practice:
 
 - Strengthening problem‑solving skills for real‑world input validation
 
-## 🚀 Future Improvements
+## 🚀 Future Improvements (Optional)
 - Add a simple UI to test numbers in the browser
 
 - Add regex version vs. logic‑based version
